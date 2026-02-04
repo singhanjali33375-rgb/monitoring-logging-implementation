@@ -50,6 +50,10 @@ monitoring-logging-implementation/
 4. Create CloudWatch Alarms
 5. Deploy Lambda for log processing
 6. Monitor via CloudWatch Dashboard
+    • Implemented centralized monitoring and logging using AWS CloudWatch
+    • Configured CloudWatch Agent for system and application logs.
+• Created CloudWatch dashboards and alarms for proactive monitoring.
+• Used AWS Lambda for log processing and analysis.
 
 ## 📊 Features
 - Centralized log management
